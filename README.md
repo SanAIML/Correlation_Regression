@@ -25,5 +25,17 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+```
+Enter the values of X separated by space
+25 28 35 32 31 36 29 38 34 32
+Enter the values of Y separated by space
+43 46 49 41 36 32 31 30 33 39
+[25 28 35 32 31 36 29 38 34 32]
+[43 46 49 41 36 32 31 30 33 39]
+10
+The Regression Y on X is Y = -0.664 ( X - 32.000) + 38.000
+```
 
 # Output 
+<img width="572" height="528" alt="Screenshot 2025-10-25 152748" src="https://github.com/user-attachments/assets/bcd5fbf9-d32f-4ad0-8cd4-cb48edf0224d" />
+
